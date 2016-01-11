@@ -7,8 +7,8 @@
 highlighter: rouge
 encoding: utf-8
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Comet
+email: mosesag0813@comet.com
 description: > Comet lets you build online
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "http://get-comet.com" # the base hostname & protocol for your site
